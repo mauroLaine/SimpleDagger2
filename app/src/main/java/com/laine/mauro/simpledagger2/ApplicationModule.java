@@ -1,4 +1,4 @@
-package com.laine.mauro.simpledagger2.application;
+package com.laine.mauro.simpledagger2;
 
 import android.app.Application;
 import android.content.Context;
